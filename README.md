@@ -6,3 +6,4 @@ Welcome to the Online Course: Computational Fluid Dynamics (CFD) with high-perfo
 
 CFD Python: 12 steps to Navier-Stokes (Lorena A. Barba group)
 https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/
+https://github.com/barbagroup/CFDPython
